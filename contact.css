@@ -52,3 +52,11 @@ aside{
     float: right;
     padding: 0 20px 20px 20px;
 }
+
+@media only screen and (max-width: 840px) {
+  header{
+    width:80%;
+  }
+
+}
+
